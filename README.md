@@ -83,6 +83,16 @@ columns:
           - name: unique
 ```
 
+### About This Demo
+
+Built by Faith Njah, to demonstrate understanding of:
+
+- Bruin’s declarative asset model
+
+- End-to-end data workflows
+
+- Communicating complex tools in a simple way
+
 4. Business Metrics
 Calculate customer lifetime value, product performance, and more!
 
