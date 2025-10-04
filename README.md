@@ -40,6 +40,7 @@ bruin run pipeline/
 
 
 ### Project Structure
+```bash
 Bruin_Project/
 ├── .bruin.yml                  # Bruin configuration
 ├── pipeline/
@@ -55,6 +56,7 @@ Bruin_Project/
 │           └── product_performance.sql
 ├── data/                       # Source CSV files
 └── docs/                       # Documentation
+```
 
 ### Key Features Demonstrated
 1. Simple Data Ingestion
