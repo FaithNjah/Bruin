@@ -1,0 +1,27 @@
+# Bruin configuration (may contain sensitive info)
+.bruin.yml
+
+# Bruin logs
+logs/runs
+logs/*.log
+
+# Ignore entire data folder
+data/
+
+# Database files
+*.db
+
+# Bruin executable
+bruin.exe
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
