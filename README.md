@@ -83,6 +83,13 @@ columns:
           - name: unique
 ```
 
+
+4. Business Metrics
+Calculate customer lifetime value, product performance, and more!
+
+### About the Data
+This project uses the Brazilian E-Commerce Public Dataset from Kaggle, which contains real anonymized data from 100k orders.
+
 ### About This Demo
 
 Built by Faith Njah, to demonstrate understanding of:
@@ -92,9 +99,3 @@ Built by Faith Njah, to demonstrate understanding of:
 - End-to-end data workflows
 
 - Communicating complex tools in a simple way
-
-4. Business Metrics
-Calculate customer lifetime value, product performance, and more!
-
-### About the Data
-This project uses the Brazilian E-Commerce Public Dataset from Kaggle, which contains real anonymized data from 100k orders.
